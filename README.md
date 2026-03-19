@@ -6,4 +6,4 @@ No primeiro exercício chamado "O Detetive de Arquivos", utilizei o comando dir 
 
 No segundo exercício chamado "Hierarquia de Pastas", criei a seguinte estrutura usando apenas o comando mkdir e cd: Projetos > Exercicios > Logica. Depois, voltei para a pasta Projetos usando apenas um comando (cd ..).
 
-No terceiro e último exercício chamado "Versão dos Softwares", utilizei os comandos "dotnet --version", "git --version" e "node -v" para encontrar determinados programas no computador e descobrir suas versões.
+No terceiro e último exercício chamado "Versão dos Softwares", utilizei os comandos "dotnet --version", "java --version", "git --version" e "node -v" para encontrar determinados programas no computador e descobrir suas versões. Dotnet retornou a versão 10.0.102, Java retornou openjdk 25.0.2 2026-01-20, Git retornou 2.51.0.windows.1 e Node não foi reconhecido.
